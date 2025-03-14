@@ -243,7 +243,7 @@ public class GoldBits extends EarthAbility implements AddonAbility {
     }
 
     public String getInstructions() {
-        return "Left click shoot";
+        return "Left click to shoot";
     }
     @Override
     public String getAuthor() {
